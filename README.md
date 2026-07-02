@@ -19,3 +19,5 @@
 [![](https://visitcount.itsvg.in/api?id=fandiidnaf&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![My GitFut card](https://gitfut.com/fandiidnaf.png)](https://gitfut.com/fandiidnaf)
